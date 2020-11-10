@@ -1,0 +1,9 @@
+Loaded Poperties
+Loaded Cucumber Options
+Feature File formatting is incorrect!
+Unexpected character ('3' (code 51)): was expecting comma to separate OBJECT entries
+ at [Source: [B@31234801; line: 151, column: 6]
+Loaded Object Map
+curFeature:API_Test
+curScenario:test
+Creating Report
